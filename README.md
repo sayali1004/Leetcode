@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/sayali1004/Leetcode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/sayali1004/Leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/sayali1004/Leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1942-primary-department-for-each-employee](https://github.com/sayali1004/Leetcode/tree/master/1942-primary-department-for-each-employee) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sayali1004/Leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sayali1004/Leetcode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
