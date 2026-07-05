@@ -1,10 +1,13 @@
 class Solution(object):
-
     def isPalindrome(self, x):
-        x = str(x)  
-        n=len(x)
-        for i in range(n//2):
-            if x[i]!=x[n-i-1]:
-                return False
-            
-        return True
+        """
+        :type x: int
+        :rtype: bool
+        """
+        temp=x
+        reverse=0
+        while x>0:
+            digit=x%10
+            reverse= reverse*10+digit
+            x=x//10
+        return temp == reverse
